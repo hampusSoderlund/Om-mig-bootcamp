@@ -82,7 +82,7 @@ if (themeToggle) {
 }
 
 strengths.forEach((strength) => {
-  const card = document.createElement("article");
+  const card = document.createElement("li");
   const title = document.createElement("h3");
   const description = document.createElement("p");
 
