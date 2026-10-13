@@ -8,7 +8,7 @@ Detta är min "Om mig" sida som jag har utvecklat för att nå kursmlen i Bootca
 - Responsiv layout för mobil och desktop
 - Theme toggle som byter mellan mörkt och ljust läge
 - Exempel på styrkekort som renderas från JavaScript
-- Länkar till LinkedIn och GitHub
+- Länkar till LinkedIn
 
 ### Interaktioner
 
